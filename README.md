@@ -57,8 +57,3 @@ A focused PHP prototype demonstrating scraping logic for a specific target; inte
 - LinkedIn: https://www.linkedin.com/in/n-fedorov
 - Telegram: https://t.me/n1kfedorov
 - GitHub: https://github.com/nikfedorov
-
----
-
-## Notes
-- The `document-templates` repository in my profile is a fork — the original project is not my work.
